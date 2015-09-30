@@ -2,30 +2,24 @@
 // Submitted by: Edper Castro
 
 // Example program // F+1 = a*At+(1-a)x ft
+// Example program
 #include <iostream>
 #include <string>
 
-int main()
-                 int F;
-                 int demenad;
-{                double paremeter_1;
-                 double paremeter_2;
-                  
-                  
-                  cout << "Enter soothing parementer 0.1 or 0.2" <<endl;
-                  cin >> paremeter_1 >> paremter_2;
-                  
-                  paremeter_1 = 0.1; 
-                  paremeter_2 = 0.2;
-                  
-                  for ( int F = 21; Demand = 21)
-                   
-                   F+1=parmeter_1*demand+(1-
-                 
-                  
-
-                  cout << "  " << sum <<endl;
-                  
+using namespace std;
+ 
+int main ()
+{
+   int a;
+   
+   for( int i = 1;  i <= 12; i++ )
+   {
+       cout << "Month: " << i << endl;
+       cin >> a;
+   }
+ 
+   return 0;
+}
                   return 0;
 }
 
